@@ -1,2 +1,2 @@
 # 项目环境
-HOST = "https://test.quanxianglife.cn/"
+HOST = "https://test.quanxianglife.cn"
